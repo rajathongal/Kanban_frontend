@@ -87,7 +87,7 @@ const Hero = ({ className, ...rest }) => {
                   variant="body1"
                   color="textSecondary"
                 >
-                  Web Tech mini project based on HTML CSS React Redux Nodejs MongoDB.
+                  Web Tech mini project based on HTML CSS React Redux Nodejs MongoDB and GraphQL.
                 </Typography>
               </Box>
             </Box>
