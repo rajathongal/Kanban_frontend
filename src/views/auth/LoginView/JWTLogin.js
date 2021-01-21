@@ -124,11 +124,11 @@ const JWTLogin = ({ className, ...rest }) => {
               <div>
                 Use
                 {' '}
-                <b>demo@devias.io</b>
+                <b>RajatHongal@gmail.com</b>
                 {' '}
                 and password
                 {' '}
-                <b>Password123</b>
+                <b>qwertyu</b>
               </div>
             </Alert>
           </Box>
