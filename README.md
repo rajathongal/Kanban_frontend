@@ -34,4 +34,4 @@ Your app is ready to be deployed.
 
 ## User Guide
 
-You can find detailed instructions on using Create React App and many tips in [its documentation](https://facebook.github.io/create-react-app/).
+![Image of Snapshot](https://github.com/rajathongal/Kanban_frontend/tree/master/Images/1.PNG)
