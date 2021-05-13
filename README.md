@@ -34,4 +34,4 @@ Your app is ready to be deployed.
 
 ## User Guide
 
-![Image of Snapshot](https://github.com/rajathongal/Kanban_frontend/tree/master/Images/1.png)
+![Image of Snapshot](https://github.com/rajathongal/Kanban_frontend/tree/master/Images/2)
