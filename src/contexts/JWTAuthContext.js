@@ -163,8 +163,8 @@ export const AuthProvider = ({ children }) => {
       variables: {name,email,password}
     }).then(res => {return res})
 
-    setSession(data.signUpUser.accessToken)
-    window.localStorage.setItem('rfsrt', data.signUpUser.rfsrt);
+    // setSession(data.signUpUser.accessToken)
+    // window.localStorage.setItem('rfsrt', data.signUpUser.rfsrt);
 
     dispatch({
       type: 'REGISTER',

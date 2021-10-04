@@ -5,6 +5,7 @@ import objFromArray from 'src/utils/objFromArray';
 import gql from 'graphql-tag';
 import client from '../utils/GQLClient';
 
+
 const initialState = {
   isLoaded: false,
   lists: {
